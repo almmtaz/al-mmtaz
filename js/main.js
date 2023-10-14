@@ -11,11 +11,11 @@ doc.ready(function(){
 	$(window).scrollTop(0);
 
 	var typed = new Typed(".mytext", {
-	  strings: ["Alex Doe", "Web Developer","Graphics Designer"],
+	  strings: ["شـويـت كـلام", "كـلام كـتـيـر","عـن اي حـاجـه"],
 	  smartBackspace: true, // Default value
 	  loop:true,
-	  backDelay: 1000,
-	  typeSpeed: 10
+	  backDelay: 1500,
+	  typeSpeed: 5
 	});
 
 	$('.navbar-nav').onePageNav({
